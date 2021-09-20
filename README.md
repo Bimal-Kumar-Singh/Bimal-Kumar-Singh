@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bimal</h1>
-<h3 align="center"> I’m a Cyber Security enthusiastic & a junior pursuing my Bachelors in Computer Science & Engineering.</h3>
+<h3 align="center"> I’m a Cyber Security enthusiastic & pursuing my Bachelors in Computer Science & Engineering.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -33,10 +33,11 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 Stats
 
   <br/>
     <a href="https://github.com/Bimal-Kumar-Singh/github-readme-stats"><img alt="Bimal Kumar Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bimal-Kumar-Singh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
   <a href="https://github.com/Bimal-Kumar-Singh/github-readme-stats"><img alt="Bimal Kumar Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal-Kumar-Singh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -54,6 +55,7 @@
 
 <a href = "https://www.linkedin.com/in/bimal-kumar-singh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/BimalKu66490793"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
 <a href = "https://www.instagram.com/bimal_singh_bims/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCqZGqUuzycrrPp20KwywJpQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
@@ -65,14 +67,3 @@
 </a>
 <a href="https://github.com/Bimal-Kumar-Singh?tab=followers"><img src="https://img.shields.io/github/followers/Bimal-Kumar-Singh?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://www.youtube.com/channel/UCqZGqUuzycrrPp20KwywJpQ?sub_confirmation=1"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCqZGqUuzycrrPp20KwywJpQ?label=CYBER%20GEEK&style=social"></a>
-
-
-```
-
-[![](https://readme-typing-svg.herokuapp.com?color=FFC300&lines=Thanks+for+Visiting+my+GitHub+Profile)]() </br>
-![](https://komarev.com/ghpvc/?username=Bimal-Kumar-Singh&label=Profile+Views&color=yellow)
-
----
-<p align="center">
-<img src="https://github.com/Bimal-Kumar-Singh/Bimal-Kumar-Singh/blob/output/github-contribution-grid-snake.svg">
-</p>
