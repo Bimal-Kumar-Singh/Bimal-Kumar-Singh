@@ -21,8 +21,6 @@
 <a href = "https://www.credly.com/badges/96e21c65-e97e-41ce-b242-796a773770e0"><img src="https://images.credly.com/size/220x220/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" height=50px width=50px></a>
 </p>
 
-<br>
-
 ## 🎓Global Certification
 
 <b>CCNA Cybersecurity Operations</b> <br>
@@ -58,6 +56,7 @@
   <br/>
     <a href="https://github.com/Bimal-Kumar-Singh/github-readme-stats"><img alt="Bimal Kumar Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bimal-Kumar-Singh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Bimal-Kumar-Singh/github-readme-stats"><img alt="Bimal Kumar Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal-Kumar-Singh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
