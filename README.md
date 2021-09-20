@@ -63,15 +63,9 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Bimal-Kumar-Singh">
-</a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Bimal-Kumar-Singh"></a>
 <a href="https://github.com/Bimal-Kumar-Singh?tab=followers"><img src="https://img.shields.io/github/followers/Bimal-Kumar-Singh?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://www.youtube.com/channel/UCqZGqUuzycrrPp20KwywJpQ?sub_confirmation=1"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCqZGqUuzycrrPp20KwywJpQ?label=CYBER%20GEEK&style=social"></a>
-
-
-[![](https://readme-typing-svg.herokuapp.com?color=FFC300&lines=Thanks+for+Visiting+my+GitHub+Profile)]() </br>
-![](https://komarev.com/ghpvc/?username=Bimal-Kumar-Singh&label=Profile+Views&color=yellow)
 
 ---
 <p align="center">
