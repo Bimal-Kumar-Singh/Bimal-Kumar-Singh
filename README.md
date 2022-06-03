@@ -15,7 +15,7 @@
 ## 📛Badges
 <p align="left">
 
-<a href = "https://www.credly.com/badges/bb992e83-7ec9-48dc-99f2-24e541d6d892"><img src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" height=50px width=50px></a>
+<a href = "https://www.credly.com/badges/bb992e83-7ec9-48dc-99f2-24e541d6d892" target="_blank"><img src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" height=50px width=50px></a>
 <a href = "https://www.credly.com/badges/a22b0f8c-0a29-4a89-8592-ae10fbedf430"><img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height=50px width=50px></a>
 <a href = "https://www.credly.com/badges/bb992e83-7ec9-48dc-99f2-24e541d6d892"><img src="https://images.credly.com/size/220x220/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" height=50px width=50px></a>
 <a href = "https://www.credly.com/badges/96e21c65-e97e-41ce-b242-796a773770e0"><img src="https://images.credly.com/size/220x220/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" height=50px width=50px></a>
